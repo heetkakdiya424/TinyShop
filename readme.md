@@ -32,3 +32,5 @@ TinyShop is a comprehensive and user-friendly solution designed to streamline th
 ## Contact
 
 For any issues or feature requests, feel free to open an issue or contact the development team.
+
+👨‍❤️‍👨✊💦💦
